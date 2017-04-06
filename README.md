@@ -1,1 +1,1 @@
-qa: check
+qa: update
